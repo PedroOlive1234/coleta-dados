@@ -1,0 +1,122 @@
+[
+  {
+    "name": "master-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png",
+    "effect": "Used in battle\n:   Catches a wild Pokémon without fail.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Catches a wild Pokémon every time."
+  },
+  {
+    "name": "ultra-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 2×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 2×."
+  },
+  {
+    "name": "great-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1.5×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 1.5×."
+  },
+  {
+    "name": "poke-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon."
+  },
+  {
+    "name": "safari-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1.5×.\n\nThis item can only be used in the great marsh or kanto safari zone.",
+    "short_effect": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×."
+  },
+  {
+    "name": "net-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/net-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  If the wild Pokémon is water- or bug-type, this ball has a catch rate of 3×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon."
+  },
+  {
+    "name": "dive-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dive-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  If the wild Pokémon was encountered by surfing or fishing, this ball has a catch rate of 3.5×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing."
+  },
+  {
+    "name": "nest-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nest-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pokémon's level, to a maximum of 3.9× for level 1 Pokémon.  If the wild Pokémon's level is higher than 30, this ball has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30."
+  },
+  {
+    "name": "repeat-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repeat-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  If the wild Pokémon's species is marked as caught in the trainer's Pokédex, this ball has a catch rate of 3×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon."
+  },
+  {
+    "name": "timer-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/timer-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  Has a catch rate of 1.1× on the first turn of the battle and increases by 0.1× every turn, to a maximum of 4× on turn 30.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×."
+  },
+  {
+    "name": "luxury-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.  Whenever the caught Pokémon's happiness increases, it increases by one extra point.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness."
+  },
+  {
+    "name": "premier-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon."
+  },
+  {
+    "name": "dusk-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon.  If it's currently nighttime or the wild Pokémon was encountered while walking in a cave, this ball has a catch rate of 3.5×.  Otherwise, it has a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves."
+  },
+  {
+    "name": "heal-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.  The caught Pokémon's HP is immediately restored, PP for all its moves is restored, and any status ailment is cured.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed."
+  },
+  {
+    "name": "quick-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 4× on the first turn of a battle, but 1× any other time.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn."
+  },
+  {
+    "name": "cherish-ball",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cherish-ball.png",
+    "effect": "Used in battle\n:   Attempts to catch a wild Pokémon, using a catch rate of 1×.\n\n    If used in a trainer battle, nothing happens and the ball is lost.",
+    "short_effect": "Tries to catch a wild Pokémon."
+  },
+  {
+    "name": "potion",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png",
+    "effect": "Used on a friendly Pokémon\n:   Restores 20 HP.",
+    "short_effect": "Restores 20 HP."
+  },
+  {
+    "name": "antidote",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png",
+    "effect": "Used on a party Pokémon\n:   Cures poison.",
+    "short_effect": "Cures poison."
+  },
+  {
+    "name": "burn-heal",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png",
+    "effect": "Used on a party Pokémon\n:   Cures a burn.",
+    "short_effect": "Cures a burn."
+  },
+  {
+    "name": "ice-heal",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png",
+    "effect": "Used on a party Pokémon\n:   Cures freezing.",
+    "short_effect": "Cures freezing."
+  }
+]

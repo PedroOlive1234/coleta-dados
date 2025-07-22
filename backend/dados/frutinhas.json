@@ -1,0 +1,182 @@
+[
+  {
+    "name": "cheri",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png",
+    "spicy": 10,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "chesto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png",
+    "spicy": 0,
+    "dry": 10,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "pecha",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 10,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "rawst",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 10,
+    "sour": 0
+  },
+  {
+    "name": "aspear",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 10
+  },
+  {
+    "name": "leppa",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png",
+    "spicy": 10,
+    "dry": 0,
+    "sweet": 10,
+    "bitter": 10,
+    "sour": 10
+  },
+  {
+    "name": "oran",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png",
+    "spicy": 10,
+    "dry": 10,
+    "sweet": 0,
+    "bitter": 10,
+    "sour": 10
+  },
+  {
+    "name": "persim",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png",
+    "spicy": 10,
+    "dry": 10,
+    "sweet": 10,
+    "bitter": 0,
+    "sour": 10
+  },
+  {
+    "name": "lum",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png",
+    "spicy": 10,
+    "dry": 10,
+    "sweet": 10,
+    "bitter": 10,
+    "sour": 0
+  },
+  {
+    "name": "sitrus",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png",
+    "spicy": 0,
+    "dry": 10,
+    "sweet": 10,
+    "bitter": 10,
+    "sour": 10
+  },
+  {
+    "name": "figy",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png",
+    "spicy": 15,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "wiki",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png",
+    "spicy": 0,
+    "dry": 15,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "mago",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 15,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "aguav",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 15,
+    "sour": 0
+  },
+  {
+    "name": "iapapa",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 15
+  },
+  {
+    "name": "razz",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png",
+    "spicy": 10,
+    "dry": 10,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "bluk",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png",
+    "spicy": 0,
+    "dry": 10,
+    "sweet": 10,
+    "bitter": 0,
+    "sour": 0
+  },
+  {
+    "name": "nanab",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 10,
+    "bitter": 10,
+    "sour": 0
+  },
+  {
+    "name": "wepear",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png",
+    "spicy": 0,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 10,
+    "sour": 10
+  },
+  {
+    "name": "pinap",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png",
+    "spicy": 10,
+    "dry": 0,
+    "sweet": 0,
+    "bitter": 0,
+    "sour": 10
+  }
+]
